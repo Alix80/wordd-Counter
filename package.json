@@ -1,0 +1,20 @@
+{
+  "name": "@saweraali/word-counter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  },
+  "private":false,
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
